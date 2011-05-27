@@ -1,0 +1,7 @@
+# Defaults
+default:
+  url: project-release.info
+  user: test
+  scriptPath: public_html/git-post-update-hook.sh
+  key: default_rsa
+  template: default
